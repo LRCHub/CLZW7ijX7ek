@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Nagisa",
   "base_artist": "imase",
-  "createdAt": "2026-03-26T04:53:24.959374Z",
+  "createdAt": "2026-03-29T22:34:02.539665Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,6 +123,15 @@
       "artist": "imase",
       "has_synced": true,
       "path": "select/localdb_01_Nagisa_imase.lrc",
+      "repo_name": "CLZW7ijX7ek"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Nagisa",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/localdb_02_Nagisa_imase.lrc",
       "repo_name": "I5-ro82_hbg"
     }
   ]
